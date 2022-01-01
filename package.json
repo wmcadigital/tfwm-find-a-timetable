@@ -24,7 +24,7 @@
     "axios": "^0.21.1",
     "dompurify": "^2.3.1",
     "esri-loader": "^3.2.0",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-app-polyfill": "^2.0.0",
